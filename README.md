@@ -81,10 +81,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For more information about the project or any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For more information about the project or any inquiries, please contact [your-ashutoshin7499@gmail.com](mailto:your-ashutoshin7499@gmail.com).
 
 ---
 
 **Maven**: Showcasing advanced features in women's safety technology.
-
-```
