@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For more information about the project or any inquiries, please contact [your-ashutoshin7499@gmail.com](mailto:your-ashutoshin7499@gmail.com).
+For more information about the project or any inquiries, please contact [ashutoshin7499@gmail.com](mailto:ashutoshin7499@gmail.com).
 
 ---
 
