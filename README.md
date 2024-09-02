@@ -1,3 +1,4 @@
+
 # Maven
 
 **Maven** is a women's safety app designed with the Indian audience in mind, focusing on secure navigation, real-time alerts, and advanced movement detection. This project is intended to showcase the implementation and features rather than for public use.
@@ -30,5 +31,60 @@ Maven integrates the following key features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/maven.git
+   git clone https://github.com/AsHuToShSiNgH02/Maven
    cd maven/backend
+   ```
+
+2. Set up a Python virtual environment and install dependencies:
+   ```bash
+   python -m venv env
+   source env/bin/activate
+   pip install -r requirements.txt
+   ```
+
+3. Configure environment variables in a `.env` file and run migrations:
+   ```bash
+   python manage.py migrate
+   python manage.py runserver
+   ```
+
+### Frontend Setup
+
+1. Navigate to the React Native project directory:
+   ```bash
+   cd MavenMobile
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the React Native development server:
+   ```bash
+   npm start
+   ```
+
+## Features Showcase
+
+- **Safe Route Navigation**: Demonstrates how routes are calculated and prioritized based on safety features.
+- **Red Zone Alerts**: Shows the notification system for entering high-risk areas.
+- **Movement Detection**: Illustrates how the machine learning model detects unusual movements and responds.
+
+## Contributing
+
+This repository is primarily for showcasing purposes. Contributions are welcome to improve the implementation or add new features. Please fork the repository, make changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For more information about the project or any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+
+---
+
+**Maven**: Showcasing advanced features in women's safety technology.
+
+```
