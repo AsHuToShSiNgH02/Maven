@@ -6,7 +6,7 @@ class SafetyPoint(models.Model):
     name = models.CharField(max_length=100)
     latitude = models.FloatField()
     longitude = models.FloatField()
-    point_type = models.CharField(max_length=50)  # e.g., "Police Station", "Red Light", "CCTV"
+    feature_type = models.CharField(max_length=50)  # e.g., "Police Station", "Red Light", "CCTV"
 
     def __str__(self):
         return f"{self.name} - {self.feature_type}"

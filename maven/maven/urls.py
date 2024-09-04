@@ -24,7 +24,7 @@ from routes.views import RedZoneViewSet, EmergencyContactViewSet, SafetyPointVie
 router = DefaultRouter()
 router.register(r'redzones', RedZoneViewSet)
 router.register(r'emergencycontacts', EmergencyContactViewSet)
-router.register(r'safety-points', SafetyPointViewSet)
+router.register(r'safety-points', SafetyPointViewSet, basename='safety-point')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
